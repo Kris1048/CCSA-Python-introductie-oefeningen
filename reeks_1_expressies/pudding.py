@@ -7,5 +7,5 @@ amount = gekochteStuks * kostprijs
 coupons = gekochteStuks // barcodes
 miles = coupons * mijlen
 
-print(f"Phillips spendeerde ${amount} voor {miles} frequent flyer miles.")
+print(f"Phillips spendeerde ${amount} voor {miles} frequent flyer mijlen.")
 
